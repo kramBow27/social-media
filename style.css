@@ -38,7 +38,7 @@ body {
   color: var(--color-dark);
   background-color: var(--color-light);
   overflow-x: hidden;
-  zoom: 0.7;
+  zoom: 0.8;
 }
 /* GENRAL STYLES */
 .container {
