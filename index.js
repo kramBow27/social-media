@@ -4,7 +4,7 @@ const menuItems = document.querySelectorAll('.menu-item');
 const messagesNotification = document.querySelector('#messages-notifications');
 const messages = document.querySelector('.messages');
 const message = messages.querySelectorAll('.message');
-const messageSearch = toString(document.querySelector('#message-search'));
+const messageSearch = document.querySelector('#message-search');
 
 //THEME
 const theme = document.querySelector('#theme');
